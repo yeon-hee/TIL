@@ -7,7 +7,8 @@
 
 ### 분류
 - [블록체인](BlockChain)
-<hr>
+
+#
 
 ### BlockChain
 - [블록체인과 Ethereum의 개념]
