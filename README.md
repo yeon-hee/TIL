@@ -11,4 +11,4 @@
 #
 
 ### BlockChain
-- [블록체인과 Ethereum의 개념](BlockChain and Ethereum.md)
+- [블록체인과 Ethereum의 개념](BlockChain/BlockChain and Ethereum.md)
