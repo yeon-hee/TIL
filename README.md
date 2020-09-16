@@ -24,12 +24,12 @@ C:\Users\multicampus\.ssh 에서 git bash 실행
 3. ec2에 docker 설치하기
 - sudo apt install docker.io  
 4. 설치된 docker 버전 확인
-docker -v 
+- docker -v 
 5. docker run
-docker run --name mysql(별칭) -p 3306:3306 -e MYSQL_ROOT_PASSWORD=패스워드 -d emblockit/ssafy-mysql
+- docker run --name mysql(별칭) -p 3306:3306 -e MYSQL_ROOT_PASSWORD=패스워드 -d emblockit/ssafy-mysql
 6. docker 실행
-docker exec -it mysql mysql -u root -p -> 비밀번호 입력
+- docker exec -it mysql mysql -u root -p -> 비밀번호 입력
 7. 사용 database 설정
-use bcssafy(database 이름) 
+- use bcssafy(database 이름) 
 
 
