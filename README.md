@@ -7,7 +7,7 @@
 - wiki처럼 운용이 가능하도록 지향한다.
 
 ### 분류
-- [CI CD](CI CD)
+- [CICD](CICD)
 - [블록체인](BlockChain)
 
 <hr>
