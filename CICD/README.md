@@ -12,3 +12,15 @@
 - 이해하기 쉬워야 한다.
 - 문서화가 잘 되어있어야 한다.
 - 테스트 가능해야 한다.
+
+#### CI/CD Tool
+- Jenkins, circleci, gitlab, QuickBuild, ...
+
+- 다양한 프로젝트에서 동일하게 버전업그레이드가 필요할 때 Jenkins의 경우는 각 Job마다 관리되므로 번거롭다.
+
+- Agent 관리
+  - Jenkins : ssh 명령어로 agent 정보 입력 후 사용 가능하다.
+  - QuickBuild : QB agent를 agent마다 설치하여야 한다.
+- 백업
+  - Jenkins : 폴더구조이므로 폴더 그대로 백업이 가능하다.
+  - QuickBuild : 각각의 구조가 달라 백업방식이 달라져야 한다.
