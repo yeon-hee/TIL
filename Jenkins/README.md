@@ -1,10 +1,10 @@
 ### :clap: Jenkins를 이용한 CI_CD
  
 1. Docker로 jenkins 설치하고 실행하기
- - jenkins 이미지 다운로드
- - jenkins 컨테이너 실행
- - jenkins 컨테이너 작동 확인
- - jenkins 웹 페이지 초기 세팅
+  - jenkins 이미지 다운로드
+  - jenkins 컨테이너 실행
+  - jenkins 컨테이너 작동 확인
+  - jenkins 웹 페이지 초기 세팅
  
 2. CI/CD 적용할 아이템 등록
 
