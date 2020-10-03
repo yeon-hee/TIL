@@ -48,7 +48,9 @@ int fileAgeInDays;
 의도가 드러나는 이름을 사용하면 코드 이해와 변경이 쉬워진다.
 <br>
 
+
 #### **지뢰찾기 예시**
+<br>
 
 ```java
 public List<int[]> getThem() {
