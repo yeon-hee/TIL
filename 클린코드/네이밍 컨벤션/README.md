@@ -6,5 +6,7 @@
 
 #### 네이밍 컨벤션의 목적
 - 소스 코드를 읽고 이해하는 데 드는 시간 절약
-  - 좋은 예) weekly_pay = hours_worked * hourly_pay_rate => 변수명만 보고도 주급 계산을 위한 변수임을 알 수 있다.
-  - 나쁜 예) a = b * c => a,b,c 각 변수가 의미하는 바를 파악하기 힘들다.
+  - 좋은 예) weekly_pay = hours_worked * hourly_pay_rate 
+  => 변수명만 보고도 주급 계산을 위한 변수임을 알 수 있다.
+  - 나쁜 예) a = b * c 
+  => a,b,c 각 변수가 의미하는 바를 파악하기 힘들다.
