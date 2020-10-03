@@ -2,7 +2,7 @@
 
 #### 코딩 컨벤션이란? 
 - 프로그래밍 스타일에 관한 가이드라인 모음
-- 네이밍 컨벤션 / 주석 컨벤션 / 들여쓰기 컨벤션 3가지로 구성
+- 네이밍 컨벤션, 주석 컨벤션, 들여쓰기 컨벤션 3가지로 구성
 
 #### 네이밍 컨벤션의 목적
 - 소스 코드를 읽고 이해하는 데 드는 시간 절약
@@ -16,10 +16,9 @@
 1) **Camel Case**
   - 보통 camel case라고 하면 lower camel case를 의미
   - 각 단어의 첫문자를 대문자료 표시 <u>(단, 이름의 제일 첫 문자는 소문자)</u>
-    - ex) camelCase / backgroundColor
+    - ex) camelCase, backgroundColor
 
 2) **Snake Case**
 - 각 단어 사이를 언더바로 구분하는 표기법
   - ex) camel_case
   
- 
