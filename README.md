@@ -16,7 +16,6 @@
 📘 분류
 - [AWS](AWS)
 - [CICD](CICD)
-- [Firebase](Firebase)
 - [Jenkins](Jenkins)
 - [NodeJS](NodeJS)
 - [자료구조](자료구조)
