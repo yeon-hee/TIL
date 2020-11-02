@@ -14,7 +14,6 @@
 <br>
 
 📘 분류
-- [MVP](MVP)
 - [AWS](AWS)
 - [CICD](CICD)
 - [Jenkins](Jenkins)
