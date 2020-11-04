@@ -9,6 +9,9 @@
 
 ---
 
+### BlockChain
+- [블록체인과 Ethereum의 개념](https://github.com/yeon-hee/TIL/blob/master/BlockChain/BlockChain%20and%20Ethereum.md)
+
 ### 블록체인 네트워크 구축 및 활용 
 #### 2020.08.31 ~ 2020.09.05
 - 가상 머신을 활용하여 개인적으로 실습할 수 있는 이더리움 네트워크 환경을 구축
