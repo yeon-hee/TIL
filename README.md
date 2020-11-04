@@ -23,10 +23,6 @@
 
 <hr>
 
-
-### BlockChain
-- [블록체인과 Ethereum의 개념](https://github.com/yeon-hee/TIL/blob/master/BlockChain/BlockChain%20and%20Ethereum.md)
-
 ### AWS
 - [AWS에 Docker 연동](https://github.com/yeon-hee/TIL/blob/master/AWS/README.md)
 
