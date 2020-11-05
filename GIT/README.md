@@ -1,4 +1,4 @@
-## Git으로 협업하기
+## :two_men_holding_hands: Git으로 협업하기
 
 - branch에서 작업한 후 원격 develop에 merge하기
 
