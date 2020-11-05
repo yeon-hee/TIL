@@ -15,6 +15,7 @@
 
 📘 분류
 - [AWS](AWS)
+- [GIT](GIT)
 - [CICD](CICD)
 - [Jenkins](Jenkins)
 - [NodeJS](NodeJS)
