@@ -24,16 +24,19 @@ git checkout develop
 ```java
 git pull
 ```
+<br>
 
 작업하던 브랜치를 로컬 develop에 merge한다.
 ```java
 git merge 브랜치
 ```
+<br>
 
 로컬 develop를 원격 develop로 push한다.
 ```java
 git push
 ```
+<br>
 
 ```java
 git check 브랜치
