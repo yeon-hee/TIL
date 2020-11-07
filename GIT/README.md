@@ -19,6 +19,7 @@ git checkout develop
 ```
 
 여기서 작업한 목록들을 모두 add안하고 남겨놨을 경우, 브랜치를 바꾸지 못할때는 git stash를 통해 기존에 작업하던 것을 저장한 후 브랜치를 이동한다.
+<br>
 
 최근 원격 develop를 pull 한다.
 ```java
