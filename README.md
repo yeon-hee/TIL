@@ -21,9 +21,3 @@
 - [NodeJS](NodeJS)
 - [자료구조](자료구조)
 - [블록체인](BlockChain)
-
-<hr>
-
-### AWS
-- [AWS에 Docker 연동](https://github.com/yeon-hee/TIL/blob/master/AWS/README.md)
-
